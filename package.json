@@ -1,1 +1,22 @@
-.
+{
+  "name": "lusorapriv-cloud",
+  "version": "1.0.0",
+  "private": true,
+  "description": "LusoraPriv Cloud - AI + Cyber Security + Deploy Platform",
+  "author": "LusoraPriv",
+  "license": "MIT",
+  "scripts": {
+    "client": "npm --prefix client run dev",
+    "server": "npm --prefix server run dev",
+    "build": "npm --prefix client run build",
+    "start": "npm --prefix server start"
+  },
+  "keywords": [
+    "lusorapriv",
+    "cloud",
+    "ai",
+    "cyber-security",
+    "deploy",
+    "platform"
+  ]
+}
