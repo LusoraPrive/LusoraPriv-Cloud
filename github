@@ -1,1 +1,8 @@
-.
+# GitHub Configuration
+
+This folder contains:
+
+- GitHub Actions
+- Issue Templates
+- Pull Request Templates
+- CI/CD Workflows
