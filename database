@@ -1,1 +1,12 @@
-.
+# LusoraPriv Cloud Database
+
+Database Structure
+
+## Tables
+
+- users
+- projects
+- deployments
+- credits
+- security_scans
+- api_keys
